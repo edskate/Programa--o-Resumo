@@ -23,3 +23,5 @@ Criar um novo objeto com as mesmas propriedades da camisa e alterar o valor do p
 # Lista de Produtos em Python.
 
 - Com produtos é preços.
+
+# Listas Não Ordenadas.
