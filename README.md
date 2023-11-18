@@ -15,4 +15,8 @@ Criar um novo objeto com as mesmas propriedades da camisa e alterar o valor do p
 - Power Mode.
 
 
- 
+## Verificação de número par ou impar.
+```
+ Aqui está um exemplo Simples de um programa que solicita ao usuário que insira um número e, em seguida, verifica se esse número é par ou impar.
+
+ ```
