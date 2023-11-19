@@ -31,3 +31,4 @@ Criar um novo objeto com as mesmas propriedades da camisa e alterar o valor do p
 |  Table  |  001  | 2023   |
 |---|---|---|
 |  🕴  |   🌈 |  🕓 |
+|  🕴🕴 |       |    |
